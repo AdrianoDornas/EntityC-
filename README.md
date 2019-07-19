@@ -1,14 +1,6 @@
 # Entity
 Register of employees using Entity Framework. References in portuguese.
 
-Referências:
-
-treinaweb.com.br
-macoratti.net
-youtube.com
-programandodornet.wordpress.com
-github.com
-devmedia.com.br
 ---------------------------------
 
 Especificações:
@@ -59,6 +51,16 @@ Resultado:
 O motor de views de ambos é o RAZOR (permite a existência de código C# misturado com HTML.
 
 Associado ao Model-First - Entity Framework 4.1, abordagem que permite modelar a base de dados de forma visual.
+
+
+Referências:
+
+treinaweb.com.br
+macoratti.net
+youtube.com
+programandodornet.wordpress.com
+github.com
+devmedia.com.br
 
 
  
